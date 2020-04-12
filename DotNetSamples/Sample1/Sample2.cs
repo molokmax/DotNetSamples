@@ -38,10 +38,5 @@ namespace DotNetSamples.Sample1
                 return dispose;
             }
         }
-
-        public struct S1: long
-        {
-            public int q;
-        }
     }
 }

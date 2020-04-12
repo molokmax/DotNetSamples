@@ -10,9 +10,11 @@ namespace DotNetSamples
             ExecuteSample(new Sample1.Sample2(), "Sample2");
             ExecuteSample(new Sample1.Sample3(), "Sample3");
             ExecuteSample(new Sample1.Sample4(), "Sample4");
+            ExecuteSample(new Sample1.Sample5(), "Sample5");
+            ExecuteSample(new Sample1.Sample6(), "Sample6");
 
 
-            ExecuteSample(new MailCert.Sample1(), "MailCert.Sample1");
+            // ExecuteSample(new MailCert.Sample1(), "MailCert.Sample1");
 
             // Console.ReadKey();
         }
